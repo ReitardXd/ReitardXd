@@ -24,12 +24,10 @@
 </div>
 
 ---
-
 ## About
-
-3rd year CS student at SRMIST with a focus on systems programming, security, and anything that runs close to the metal. I like to build things from scratch — not because frameworks don't exist, but because I want to know exactly what's happening underneath and because its pretty cool to see how stuff works.
-
-Currently interested in: low-level C und  C++, OS internals, network security, physics simulation, and aerospace systems. Long term goal is to work on something where being wrong has real consequences i.e the Aerospace Industry.
+3rd year CS student at SRMIST with a focus on systems programming, security, and anything that runs close to the metal. I like to build things from scratch — not because frameworks don't exist, but because I want to know exactly what's happening underneath, and because it's genuinely cool to see how stuff works.
+Currently interested in low-level C and C++, OS internals, network security, physics simulation, and aerospace systems. Long term goal is to work on something where being wrong has real consequences — the aerospace industry.
+Outside of programming: I read a lot — philosophy, college-level physics, theology, poetry. Also into lifting, video games when the mood hits, and films (no slop, trust me).
 
 ---
 
