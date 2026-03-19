@@ -112,7 +112,7 @@ Grinding LeetCode and Codeforces between projects. Focus on DSA fundamentals —
 
 <div align="center">
 
-*"The goal is depth, not breadth. Anyone can collect interests."*
+*"Whoever will be free must make himself free. Freedom is no fairy gift to fall into a man's lap. What is freedom? To have the will to be responsible for one's self."*
 
 `pranav.k.roy161@gmail.com`
 
