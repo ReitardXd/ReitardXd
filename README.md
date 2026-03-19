@@ -19,7 +19,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-Reitardxd-1f8acb?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Reitardxd)
 [![MonkeyType](https://img.shields.io/badge/MonkeyType-realcynicallol-yellow?style=flat-square)](https://monkeytype.com/profile/realcynicallol)
 
-> Discord — deactivated. Instagram — deactivated. I'm either coding or I'm offline.
+> Discord — deactivated. Instagram — deactivated. I'm autistic and get overstimulated hence the deactivation if you wanna talk just email me.
 
 </div>
 
@@ -27,9 +27,9 @@
 
 ## About
 
-3rd year CS student at SRMIST with a focus on systems programming, security, and anything that runs close to the metal. I build things from scratch — not because frameworks don't exist, but because I want to know exactly what's happening underneath.
+3rd year CS student at SRMIST with a focus on systems programming, security, and anything that runs close to the metal. I like to build things from scratch — not because frameworks don't exist, but because I want to know exactly what's happening underneath and because its pretty cool to see how stuff works.
 
-Currently interested in: low-level C++, OS internals, network security, physics simulation, and aerospace systems. Long term goal is to work on something where being wrong has real consequences.
+Currently interested in: low-level C und  C++, OS internals, network security, physics simulation, and aerospace systems. Long term goal is to work on something where being wrong has real consequences i.e the Aerospace Industry.
 
 ---
 
@@ -75,7 +75,7 @@ A simple Unix shell built from scratch through Codecrafters. Implements command 
 ### [diddy-project](https://github.com/ReitardXd/diddy-project)
 > `C`
 
-A C project. Make of that what you will.
+A C project i made for a friend. Make of that what you will.
 
 ---
 
