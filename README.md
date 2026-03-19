@@ -90,6 +90,19 @@ Learning      Binary exploitation  ·  kernel internals  ·  RTOS  ·  CUDA
 
 ---
 
+## Setup
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logoColor=black)
+![Kitty](https://img.shields.io/badge/Kitty-black?style=flat-square&logo=kitty&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
+![Thunar](https://img.shields.io/badge/Thunar-358?style=flat-square&logo=xfce&logoColor=white)
+![LibreWolf](https://img.shields.io/badge/LibreWolf-00ACFF?style=flat-square&logo=librewolf&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
 ## Competitive Programming
 
 Grinding LeetCode and Codeforces between projects. Focus on DSA fundamentals — arrays, trees, graphs, DP. Not chasing ratings, just making sure I can think clearly under pressure.
