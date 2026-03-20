@@ -77,19 +77,6 @@ A C project i made for a friend. Make of that what you will.
 
 ---
 
-## Stack
-
-```
-Languages     C++  ·  C  ·  Python  ·  JavaScript  ·  SQL  ·  Shell
-Backend       Node.js  ·  Express  ·  PostgreSQL
-Security      bcrypt  ·  AES  ·  session auth  ·  rate limiting  ·  recon tools
-Systems       Linux (Arch)  ·  Unix shell  ·  memory management  ·  OpenGL
-Tools         Git  ·  GDB  ·  Wireshark  ·  nvim
-Learning      Binary exploitation  ·  kernel internals  ·  RTOS  ·  CUDA
-```
-
----
-
 ## Setup
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
