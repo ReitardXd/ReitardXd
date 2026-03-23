@@ -12,7 +12,7 @@
 ### Pranav K Roy
 **CS @ SRMIST · Computer Networking · 2023–2027**
 
-*Building things at the intersection of systems, security, and physics*
+*I try to code*
 
 [![Email](https://img.shields.io/badge/Email-pranav.k.roy161@gmail.com-red?style=flat-square&logo=gmail)](mailto:pranav.k.roy161@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ReitardXd-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/ReitardXd/)
