@@ -73,13 +73,6 @@ A simple Unix shell built from scratch through Codecrafters. Implements command 
 
 ---
 
-### [diddy-project](https://github.com/ReitardXd/diddy-project)
-> `C`
-
-A C project i made for a friend. Make of that what you will.
-
----
-
 ## Setup
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
@@ -112,8 +105,7 @@ A C project i made for a friend. Make of that what you will.
 ---
 
 ## Competitive Programming
-
-Grinding LeetCode and Codeforces between projects. Focus on DSA fundamentals — arrays, trees, graphs, DP. Not chasing ratings, just making sure I can think clearly under pressure.
+I try Grinding this to get better at problem solving 
 
 - **LeetCode** → [ReitardXd](https://leetcode.com/u/ReitardXd/)
 - **Codeforces** → [Reitardxd](https://codeforces.com/profile/Reitardxd)
@@ -132,6 +124,7 @@ Grinding LeetCode and Codeforces between projects. Focus on DSA fundamentals —
 <div align="center">
 
 *"Whoever will be free must make himself free. Freedom is no fairy gift to fall into a man's lap. What is freedom? To have the will to be responsible for one's self."*
+                                                                  * ~ Max Stirner *
 
 `pranav.k.roy161@gmail.com`
 
