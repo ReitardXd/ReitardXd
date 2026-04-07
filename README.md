@@ -115,7 +115,7 @@ I try Grinding this to get better at problem solving
 <div align="center">
 
 *"Whoever will be free must make himself free. Freedom is no fairy gift to fall into a man's lap. What is freedom? To have the will to be responsible for one's self."*
-                                                                  * ~ Max Stirner *
+                                                                  
 
 `pranav.k.roy161@gmail.com`
 
