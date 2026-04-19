@@ -25,44 +25,7 @@ Outside of programming: I read a lot — philosophy, college-level physics, theo
 
 ---
 
-## Projects
 
-### [ProctorAI](https://github.com/ReitardXd/ProctorAI) — AI Exam Proctoring System
-> `Node.js` `Express` `PostgreSQL` `Vanilla JS` `bcrypt` `AES`
-
-A full-stack web-based exam proctoring platform built for university use. Features role-based authentication, live webcam monitoring via `getUserMedia`, AES-encrypted exam submissions stored in PostgreSQL, server-side sessions, and a complete admin dashboard with incident management.
-
-- Built the entire system solo — backend API, database schema, frontend SPA, security layer
-- Passwords hashed with bcrypt (cost 12), exam answers encrypted at rest
-- Rate limiting, CORS restriction, httpOnly session cookies
-- Admin dashboard with live student monitoring grid and violation incident reports
-
----
-
-### [nbody](https://github.com/ReitardXd/nbody) — 3D N-Body Galaxy Collision Simulator
-> `C++` `OpenGL` `Physics Simulation`
-
-A 3D gravitational N-body simulator built from scratch in C++ with OpenGL rendering. Simulates galaxy collisions using direct gravitational force calculations between all particle pairs. Built without physics engines or simulation libraries — pure math and code.
-
-- Real-time 3D rendering with camera controls
-- Configurable particle count, mass distribution, and initial conditions
-- Next targets: Barnes-Hut octree for O(N log N) scaling, bloom post-processing, CUDA compute shaders
-
----
-
-### [cracksmoker](https://github.com/ReitardXd/cracksmoker) — Password Cracking Tool
-> `Python` `Security`
-
-A Python-based password cracking tool. Built to understand how dictionary attacks and brute-force techniques work at a low level.
-
----
-
-### [Rei-Shell](https://github.com/ReitardXd/Rei-Shell) — Custom Unix Shell
-> `Shell` `C` `Systems Programming`
-
-A simple Unix shell built from scratch through Codecrafters. Implements command parsing, process forking, piping, and basic built-ins. Ongoing — updated regularly as I learn more systems internals.
-
----
 
 ## Setup
 
