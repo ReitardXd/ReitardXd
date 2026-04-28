@@ -20,9 +20,11 @@
 
 ---
 ## About
-3rd year CS student at SRMIST with a focus on systems programming, security, and anything that runs close to the metal. I like to build things from scratch — not because frameworks don't exist, but because I want to know exactly what's happening underneath, and because it's genuinely cool to see how stuff works.
-Currently interested in low-level C and C++, OS internals, network security, physics simulation, and aerospace systems. Long term goal is to work on something where being wrong has real consequences — the aerospace industry.
-Outside of programming: I read a lot — philosophy, college-level physics, theology, poetry. Also into lifting, video games when the mood hits, and films (no slop, trust me).
+CS student focused on systems programming, security, and low-level software development. I enjoy building things from the ground up — not because modern frameworks don’t exist, but because understanding exactly what’s happening under the hood is genuinely satisfying.
+
+Currently exploring performance-critical code, operating systems, and secure system design. Long-term, I’m drawn to building reliable software for high-stakes environments.
+
+Outside of coding, I enjoy reading, staying active, and diving into thoughtful media when time allows.
 
 ---
 
@@ -81,6 +83,6 @@ I try Grinding this to get better at problem solving
 *"Whoever will be free must make himself free. Freedom is no fairy gift to fall into a man's lap. What is freedom? To have the will to be responsible for one's self."*
                                                                   
 
-`pranav.k.roy161@gmail.com`
+`falkensmaze101@gmail.com`
 
 </div>
