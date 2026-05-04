@@ -14,8 +14,6 @@
 [![Autistic](https://img.shields.io/badge/Autistic-FFD700?style=flat-square&logoColor=black)](https://en.wikipedia.org/wiki/Autism_rights_movement)
 
 [![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=realcynicallol&theme=dark)](https://github.com/francisdav1d/monkeytype-readme-stats)
-> Discord — deactivated. Instagram — deactivated. I have aspergers and get overstimulated quickly, hence the deactivation. If you want to talk, just email me. Yes I know this is poor opsec but i need to get employed.
-
 </div>
 
 ---
