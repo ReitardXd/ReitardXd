@@ -12,8 +12,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Reitard104-red?style=flat-square&logo=youtube)](https://www.youtube.com/@Reitard104)
 [![HTB](https://img.shields.io/badge/HackTheBox-ReitardXd-9fef00?style=flat-square&logo=hackthebox&logoColor=9fef00)](https://profile.hackthebox.com/profile/019c7100-ffff-7323-980c-d8a52d88b59a)
 [![Autistic](https://img.shields.io/badge/Autistic-FFD700?style=flat-square&logoColor=black)](https://en.wikipedia.org/wiki/Autism_rights_movement)
-
-[![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=realcynicallol&theme=dark)](https://github.com/francisdav1d/monkeytype-readme-stats)
 </div>
 
 ---
