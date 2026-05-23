@@ -7,7 +7,7 @@
 
 [![Email](https://img.shields.io/badge/Email-falkensmaze101@gmail.com-red?style=flat-square&logo=gmail)](mailto:falkensmaze101@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ReitardXd-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/ReitardXd/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Reitardxd-1f8acb?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Reitardxd)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Reitardxd-1f8acb?style=flat-square&logo=codeforces)](https://codeforces.com/profile/tormented_mizoguchi)
 [![MonkeyType](https://img.shields.io/badge/MonkeyType-realcynicallol-yellow?style=flat-square)](https://monkeytype.com/profile/realcynicallol)
 [![YouTube](https://img.shields.io/badge/YouTube-Reitard104-red?style=flat-square&logo=youtube)](https://www.youtube.com/@Reitard104)
 [![HTB](https://img.shields.io/badge/HackTheBox-ReitardXd-9fef00?style=flat-square&logo=hackthebox&logoColor=9fef00)](https://profile.hackthebox.com/profile/019c7100-ffff-7323-980c-d8a52d88b59a)
@@ -30,7 +30,7 @@ Outside of coding, I enjoy reading, staying active, and diving into thoughtful m
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logoColor=black)
-![Kitty](https://img.shields.io/badge/Kitty-black?style=flat-square&logo=kitty&logoColor=white)
+![Suckless'ST](https://img.shields.io/badge/Kitty-black?style=flat-square&logo=kitty&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
 ![Thunar](https://img.shields.io/badge/Thunar-358?style=flat-square&logo=xfce&logoColor=white)
@@ -54,6 +54,15 @@ Outside of coding, I enjoy reading, staying active, and diving into thoughtful m
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
 
 ---
 
@@ -61,16 +70,14 @@ Outside of coding, I enjoy reading, staying active, and diving into thoughtful m
 I try Grinding this to get better at problem solving 
 
 - **LeetCode** → [ReitardXd](https://leetcode.com/u/ReitardXd/)
-- **Codeforces** → [Reitardxd](https://codeforces.com/profile/Reitardxd)
+- **Codeforces** → [Reitardxd](https://codeforces.com/profile/tormented_mizoguchi)
 
 ---
 
 ## Currently
 
-- 📌 Finishing Sprint 3 of ProctorAI — webcam proctoring pipeline
 - 📌 Pushing nbody sim toward Barnes-Hut + CUDA
 - 📌 Placement prep — 150 quality LC problems by summer
-- 📌 Learning binary exploitation and kernel module development
 
 ---
 
