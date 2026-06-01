@@ -16,9 +16,9 @@
 
 ---
 ## About
-CS student focused on systems programming, security, and low-level software development. I enjoy building things from the ground up — not because modern frameworks don’t exist, but because understanding exactly what’s happening under the hood is genuinely satisfying.
+CS student focused on systems programming, security, and low-level software development. 
 
-Currently exploring performance-critical code, operating systems, and secure system design. Long-term, I’m drawn to building reliable software for high-stakes environments.
+Currently exploring operating systems, and secure system design. Long-term, I’m drawn to building reliable software for high-stakes environments.
 
 Outside of coding, I enjoy reading, staying active, and diving into thoughtful media when time allows.
 
@@ -72,12 +72,6 @@ I try Grinding this to get better at problem solving
 - **LeetCode** → [ReitardXd](https://leetcode.com/u/ReitardXd/)
 - **Codeforces** → [Reitardxd](https://codeforces.com/profile/tormented_mizoguchi)
 
----
-
-## Currently
-
-- 📌 Pushing nbody sim toward Barnes-Hut + CUDA
-- 📌 Placement prep — 150 quality LC problems by summer
 
 ---
 
