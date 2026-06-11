@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media1.tenor.com/m/JpPzwIOw4vIAAAAd/gendo-shinji.gif" width="400"/>
+
 ### Pranav K Roy
 **CS @ SRMIST · Computer Networking · 2023–2027**
 
@@ -12,13 +14,14 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Reitard104-red?style=flat-square&logo=youtube)](https://www.youtube.com/@Reitard104)
 [![HTB](https://img.shields.io/badge/HackTheBox-ReitardXd-9fef00?style=flat-square&logo=hackthebox&logoColor=9fef00)](https://profile.hackthebox.com/profile/019c7100-ffff-7323-980c-d8a52d88b59a)
 [![Autistic](https://img.shields.io/badge/Autistic-FFD700?style=flat-square&logoColor=black)](https://en.wikipedia.org/wiki/Autism_rights_movement)
+
 </div>
 
 ---
 ## About
 CS student focused on systems programming, security, and low-level software development. 
 
-Currently exploring operating systems, and secure system design. Long-term, I’m drawn to building reliable software for high-stakes environments.
+Currently exploring operating systems, and secure system design. Long-term, I'm drawn to building reliable software for high-stakes environments.
 
 Outside of coding, I enjoy reading, staying active, and diving into thoughtful media when time allows.
 
