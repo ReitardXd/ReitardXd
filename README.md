@@ -5,7 +5,7 @@
 ### Pranav K Roy
 **CS @ SRMIST · Computer Networking · 2023–2027**
 
-*I try to code*
+*Wannabe engineer*
 
 [![Email](https://img.shields.io/badge/Email-falkensmaze101@gmail.com-red?style=flat-square&logo=gmail)](mailto:falkensmaze101@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ReitardXd-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/ReitardXd/)
@@ -21,7 +21,7 @@
 ## About
 CS student focused on systems programming, security, and low-level software development. 
 
-Currently exploring operating systems, and secure system design. Long-term, I'm drawn to building reliable software for high-stakes environments.
+Currently exploring operating systems, and secure system design. Long-term, I'm drawn to building reliable software for the aerospace industry.
 
 Outside of coding, I enjoy reading, staying active, and diving into thoughtful media when time allows.
 
