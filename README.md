@@ -31,7 +31,7 @@ Outside of coding, I enjoy reading, staying active, and diving into thoughtful m
 
 ## Setup
 
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat&logo=gentoo&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logoColor=black)
 ![Suckless'ST](https://img.shields.io/badge/Kitty-black?style=flat-square&logo=kitty&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
