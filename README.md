@@ -2,8 +2,7 @@
 
 <img src="https://media1.tenor.com/m/JpPzwIOw4vIAAAAd/gendo-shinji.gif" width="400"/>
 
-### Pranav K Roy
-**CS @ SRMIST · Computer Networking · 2023–2027**
+### ReitardXd
 
 *Wannabe engineer*
 
