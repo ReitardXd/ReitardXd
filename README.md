@@ -18,7 +18,7 @@
 
 ## About
 
-- Hello! I am Pranav "Reitard" Roy, a CS student at SRMIST KTR, currently in my 4th year.
+- Hello! I am Pranav "Reitard" Roy, a CS student ,currently in my 4th year.
 - I enjoy tinkering with different Linux distros and working on low-level programming.
 - I sometimes play CTFs and solve Reverse engineering challenges when time allows, and I'm looking for SDE roles.
 
