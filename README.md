@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/ggEhlnsTGiYAAAAd/gendo-stare-neon-genesis-evangelion.gif" width="400" alt="Gendo Ikari staring"/>
+  <img
+    src="https://media1.tenor.com/m/ggEhlnsTGiYAAAAd/gendo-stare-neon-genesis-evangelion.gif"
+    width="100%"
+    alt="Gendo Ikari"
+  />
+</div>
 
 ### ReitardXd
 
