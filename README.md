@@ -1,6 +1,5 @@
 <div align="center">
-  
-<div class="tenor-gif-embed" data-postid="9367805630101002790" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/gendo-stare-neon-genesis-evangelion-gendo-gif-9367805630101002790">Gendo Stare Neon Genesis Evangelion GIF</a>from <a href="https://tenor.com/search/gendo+stare-gifs">Gendo Stare GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media1.tenor.com/m/ggEhlnsTGiYAAAAd/gendo-stare-neon-genesis-evangelion.gif" width="400" alt="Gendo Ikari staring"/>
 
 ### ReitardXd
 
