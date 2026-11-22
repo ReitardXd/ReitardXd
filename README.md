@@ -9,7 +9,7 @@
   <h3>ReitardXd</h3>
   <p><i>Wannabe engineer</i></p>
 
-  [![Email](https://img.shields.io/badge/Email-falkensmaze101@gmail.com-red?style=flat-square&logo=gmail)](mailto:falkensmaze101@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-pranav.k.roy161@gmail.com-red?style=flat-square&logo=gmail)](mailto:falkensmaze101@gmail.com)
   [![LeetCode](https://img.shields.io/badge/LeetCode-ReitardXd-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/ReitardXd/)
   [![Codeforces](https://img.shields.io/badge/Codeforces-tormented_mizoguchi-1f8acb?style=flat-square&logo=codeforces)](https://codeforces.com/profile/tormented_mizoguchi)
   [![MonkeyType](https://img.shields.io/badge/MonkeyType-realcynicallol-yellow?style=flat-square)](https://monkeytype.com/profile/realcynicallol)
